@@ -23,8 +23,6 @@ Motivated Cloud Practitioner with foundational experience in AWS, Huawei Cloud, 
 - Launched and configured EC2 instance with Apache server
 - Managed firewall rules and enabled SSH secure access
 
----
-
 ## 🎓 Education
 BSc Computer Science (or Self-Taught Cloud Practitioner)  
 Courses: *Huawei Cloud Practitioner Tech Essentials*
